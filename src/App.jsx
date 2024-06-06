@@ -55,7 +55,7 @@ function App() {
     <>
       <div className="wrapper">
         <div className="logo">
-          <img src="src/assets/images/Memory-Game-Logo.svg" alt="" />
+          <img src="public/images/Loading-Screen-2.png" alt="" />
         </div>
         {!gameOver && <Score score={score} bestScore={bestScore}></Score>}
         {(!gameOver) && 
