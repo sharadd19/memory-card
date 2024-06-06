@@ -55,11 +55,11 @@ function App() {
     <>
       <div className="wrapper">
         <div className="logo">
-          <img src="public/images/Loading-Screen-2.png" alt="" />
+          <img src="/images/Memory-Game-Logo.svg" alt="" />
         </div>
         {!gameOver && <Score score={score} bestScore={bestScore}></Score>}
         {(!gameOver) && 
-        <div className="gameTypes">
+        <div className="gameTypes"> 
           <button
             onClick={() => handleGameType(FIRE_NATION)}
             className="fireNation"
