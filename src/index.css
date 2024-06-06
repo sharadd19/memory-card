@@ -3,7 +3,7 @@
 
 :root {
   font-family: "Catamaran";
-  background-image: url("./images/Loading-Screen-2.png");
+  background-image: url("../images/Loading-Screen-2.png");
   background-size: cover;   
   background-repeat: no-repeat;
   color-scheme: light dark;

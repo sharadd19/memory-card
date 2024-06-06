@@ -55,7 +55,7 @@ function App() {
     <>
       <div className="wrapper">
         <div className="logo">
-          <img src="./images/airbender-logo.svg" alt="" />
+          <img src="../images/airbender-logo.svg" alt="" />
         </div>
         {!gameOver && <Score score={score} bestScore={bestScore}></Score>}
         {(!gameOver) && 
