@@ -1,6 +1,7 @@
 
 # Memory Card 
 
+You can find the deployed website [here](https://avatar-memory-game.vercel.app/)
 ## Description 
 This project was part of one of the projects to complete in [_The Odin Project_](https://www.theodinproject.com/lessons/node-path-react-new-memory-card) course for full-stack web development. 
 
