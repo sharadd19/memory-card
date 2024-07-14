@@ -1,5 +1,6 @@
 
 # Memory Card 
+_Date: Jun 2024_
 
 You can find the deployed website [here](https://avatar-memory-game.vercel.app/)
 ## Description 
